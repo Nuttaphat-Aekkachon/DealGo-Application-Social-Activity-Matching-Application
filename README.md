@@ -1,1 +1,4 @@
-# DealGo-Application-Social-Activity-Matching-Application
+## Project : DealGo Application - Social Activity Matching Application
+Pitching DealGo Application : https://youtu.be/oKdMLHNmmV4
+
+แอพลิเคชันนี้ถูกออกแบบเพื่อช่วยให้คุณหาเพื่อนที่สนใจกิจกรรมเดียวกันได้ง่ายขึ้น คุณสามารถค้นหาเพื่อนที่ต้องการทำกิจกรรมได้ทุกเวลา เช่น การวิ่ง ปั่นจักรยาน หรือทำโยคะ นอกจากนี้ยังมีคุณสมบัติที่ช่วยในการค้นหากิจกรรมที่คุณอาจสนใจ และแบ่งปันประสบการณ์กับผู้ใช้ท่านอื่นผ่านแพลตฟอร์มที่ใช้งานง่าย
